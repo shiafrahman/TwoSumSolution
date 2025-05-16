@@ -1,0 +1,28 @@
+Restore complete (1.0s)
+  TwoSumLib succeeded (2.8s) → TwoSumLib\bin\Debug\net8.0\TwoSumLib.dll
+  TwoSumTests succeeded (0.8s) → TwoSumTests\bin\Debug\net8.0\TwoSumTests.dll
+A total of 1 test files matched the specified pattern.
+G:\NETApplication\TwoSumSolution\TwoSumTests\bin\Debug\net8.0\TwoSumTests.dll
+[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.5.3.1+6b60a9e56a (64-bit .NET 8.0.14)
+[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.5.3.1+6b60a9e56a (64-bit .NET 8.0.14)
+[xUnit.net 00:00:00.10]   Discovering: TwoSumTests
+[xUnit.net 00:00:00.10]   Discovering: TwoSumTests
+[xUnit.net 00:00:00.13]   Discovered:  TwoSumTests
+[xUnit.net 00:00:00.13]   Discovered:  TwoSumTests
+[xUnit.net 00:00:00.14]   Starting:    TwoSumTests
+[xUnit.net 00:00:00.14]   Starting:    TwoSumTests
+[xUnit.net 00:00:00.19]   Finished:    TwoSumTests
+[xUnit.net 00:00:00.19]   Finished:    TwoSumTests
+  Passed TwoSumTests.SolverTests.TwoSum_NormalCase_ReturnsIndices [12 ms]
+  Passed TwoSumTests.SolverTests.TwoSum_NoSolution_ReturnsEmpty [< 1 ms]
+  Passed TwoSumTests.SolverTests.TwoSum_Duplicates_ReturnsCorrectIndices [< 1 ms]
+  Passed TwoSumTests.SolverTests.TwoSum_EdgeCase_EmptyArray_ReturnsEmpty [< 1 ms]
+
+Test Run Successful.
+Total tests: 4
+     Passed: 4
+ Total time: 0.8751 Seconds
+  TwoSumTests test succeeded (1.3s)
+
+Test summary: total: 4, failed: 0, succeeded: 4, skipped: 0, duration: 1.3s
+Build succeeded in 6.6s
